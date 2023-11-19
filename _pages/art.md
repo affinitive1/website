@@ -1,10 +1,10 @@
 ---
 layout: page
-title: art 
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
+permalink: /art/
+title: art
+description: art
+nav: true
+nav_order: 2
 ---
 
 Every project has a beautiful feature showcase page.
