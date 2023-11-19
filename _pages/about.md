@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: IMG_9475.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
