@@ -4,7 +4,7 @@ permalink: /art/
 title: art
 description: art
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 Every project has a beautiful feature showcase page.
